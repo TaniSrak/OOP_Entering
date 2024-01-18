@@ -19,7 +19,7 @@ public:
 		this->name = name;
 		this->age = age;
 	}
-	//конструктор копирования
+	//конструктор копирования одаодсгдапд
 	Person(const Person& other)
 	{
 		name = other.name;
